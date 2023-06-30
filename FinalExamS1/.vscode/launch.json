@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SaleDetailORM",
+            "request": "launch",
+            "mainClass": "SaleDetailORM",
+            "projectName": "FinalExamS1_b5786ce7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PurchasesORM",
+            "request": "launch",
+            "mainClass": "PurchasesORM",
+            "projectName": "FinalExamS1_b5786ce7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SalesORM",
+            "request": "launch",
+            "mainClass": "SalesORM",
+            "projectName": "FinalExamS1_b5786ce7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuppliersORM",
+            "request": "launch",
+            "mainClass": "SuppliersORM",
+            "projectName": "FinalExamS1_b5786ce7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CategoryORM",
+            "request": "launch",
+            "mainClass": "CategoryORM",
+            "projectName": "FinalExamS1_b5786ce7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomersORM",
+            "request": "launch",
+            "mainClass": "CustomersORM",
+            "projectName": "FinalExamS1_b5786ce7"
+        },
+        {
+            "type": "java",
+            "name": "Launch DBManager",
+            "request": "launch",
+            "mainClass": "DBManager",
+            "projectName": "FinalExamS1_b5786ce7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProductsORM",
+            "request": "launch",
+            "mainClass": "ProductsORM",
+            "projectName": "FinalExamS1_b5786ce7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StocksORM",
+            "request": "launch",
+            "mainClass": "StocksORM",
+            "projectName": "FinalExamS1_b5786ce7"
+        },
+        {
+            "type": "java",
+            "name": "Launch UsersORM",
+            "request": "launch",
+            "mainClass": "UsersORM",
+            "projectName": "FinalExamS1_b5786ce7"
+        }
+    ]
+}
